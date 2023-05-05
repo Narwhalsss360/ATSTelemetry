@@ -1,0 +1,11 @@
+C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Bridge Test\bin\Debug\Truck Setup Telemetry Bridge Test.exe.config
+C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Bridge Test\bin\Debug\Truck Setup Telemetry Bridge Test.exe
+C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Bridge Test\bin\Debug\Truck Setup Telemetry Bridge Test.pdb
+C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Bridge Test\bin\Debug\NStreamCom.dll
+C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Bridge Test\bin\Debug\NStreamCom.pdb
+C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Bridge Test\obj\Debug\Truck Setup Telemetry Bridge Test.csproj.AssemblyReference.cache
+C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Bridge Test\obj\Debug\Truck Setup Telemetry Bridge Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Bridge Test\obj\Debug\Truck Setup Telemetry Bridge Test.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Bridge Test\obj\Debug\Truck Setup Telemetry Bridge Test.csproj.CopyComplete
+C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Bridge Test\obj\Debug\Truck Setup Telemetry Bridge Test.exe
+C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Bridge Test\obj\Debug\Truck Setup Telemetry Bridge Test.pdb

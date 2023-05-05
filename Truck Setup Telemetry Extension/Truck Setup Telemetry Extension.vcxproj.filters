@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\scs">
+      <UniqueIdentifier>{7e2919ce-dd2c-4641-bc27-486c399f3b28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\scs\common">
+      <UniqueIdentifier>{2205026b-6ae8-434a-973f-35779f9b4d67}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TruckSetupTelemetryExtenstion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="scs\scssdk_value.h">
+      <Filter>Header Files\scs</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\scssdk.h">
+      <Filter>Header Files\scs</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\scssdk_input.h">
+      <Filter>Header Files\scs</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\scssdk_input_device.h">
+      <Filter>Header Files\scs</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\scssdk_input_event.h">
+      <Filter>Header Files\scs</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\scssdk_telemetry.h">
+      <Filter>Header Files\scs</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\scssdk_telemetry_channel.h">
+      <Filter>Header Files\scs</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\scssdk_telemetry_event.h">
+      <Filter>Header Files\scs</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\common\scssdk_telemetry_truck_common_channels.h">
+      <Filter>Header Files\scs\common</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\common\scssdk_telemetry_trailer_common_channels.h">
+      <Filter>Header Files\scs\common</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\common\scssdk_telemetry_job_common_channels.h">
+      <Filter>Header Files\scs\common</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\common\scssdk_telemetry_common_gameplay_events.h">
+      <Filter>Header Files\scs\common</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\common\scssdk_telemetry_common_configs.h">
+      <Filter>Header Files\scs\common</Filter>
+    </ClInclude>
+    <ClInclude Include="scs\common\scssdk_telemetry_common_channels.h">
+      <Filter>Header Files\scs\common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="TruckSetupTelemetryExtenstion.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+﻿  TruckSetupTelemetryExtenstion.cpp
+     Creating library C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Extension\Release\TruckSetupTelemetryExtension.lib and object C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Extension\Release\TruckSetupTelemetryExtension.exp
+TruckSetupTelemetryExtension.exp : warning LNK4070: /OUT:TruckSetupTelemetryExtenstion.dll directive in .EXP differs from output filename 'C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Extension\Release\TruckSetupTelemetryExtension.dll'; ignoring directive
+  Generating code
+  4 of 114 functions ( 3.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+TruckSetupTelemetryExtension.exp : warning LNK4070: /OUT:TruckSetupTelemetryExtenstion.dll directive in .EXP differs from output filename 'C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Extension\Release\TruckSetupTelemetryExtension.dll'; ignoring directive
+  Truck Setup Telemetry Extension.vcxproj -> C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Truck Setup Telemetry Extension\Release\TruckSetupTelemetryExtension.dll

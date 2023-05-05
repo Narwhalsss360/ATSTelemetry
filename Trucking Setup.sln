@@ -1,0 +1,120 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32422.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Main Controller", "Main Controller\Main Controller.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microcontrollers", "Microcontrollers", "{1DEABEE9-4A3E-474C-990B-533A1A8C4A75}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Telemetry", "Telemetry\Telemetry.vcxitems", "{1EF65262-0456-4FFE-BC16-547DCCCD5A9D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ControllerCommons", "ControllerCommons\ControllerCommons.vcxitems", "{C3068F0E-56A6-43B4-8C88-5E7DAB57B4AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wheel Controller", "Wheel Controller\Wheel Controller.vcxproj", "{318A6426-1FB3-48D6-85A6-97AEE169502B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Computer", "Computer", "{A54F5C80-3C4D-4CDB-A5F0-91CB5BBE8340}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Truck Setup Telemetry Extension", "Truck Setup Telemetry Extension\Truck Setup Telemetry Extension.vcxproj", "{A761124D-C4E2-481D-8278-F42DF3A03EE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testers", "Testers", "{FACC334A-C274-4D55-B6D9-967667374186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truck Setup Telemetry Bridge Test", "Truck Setup Telemetry Bridge Test\Truck Setup Telemetry Bridge Test.csproj", "{EA59E863-04AB-4C50-B255-C0E3DFD58807}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Auxilliary Controller", "Auxilliary Controller\Auxilliary Controller.vcxproj", "{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Any CPU.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x64.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x64.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Any CPU.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Any CPU.Build.0 = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x64.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x64.Build.0 = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{318A6426-1FB3-48D6-85A6-97AEE169502B}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{318A6426-1FB3-48D6-85A6-97AEE169502B}.Debug|Any CPU.Build.0 = Debug|Win32
+		{318A6426-1FB3-48D6-85A6-97AEE169502B}.Debug|x64.ActiveCfg = Debug|Win32
+		{318A6426-1FB3-48D6-85A6-97AEE169502B}.Debug|x64.Build.0 = Debug|Win32
+		{318A6426-1FB3-48D6-85A6-97AEE169502B}.Debug|x86.ActiveCfg = Debug|Win32
+		{318A6426-1FB3-48D6-85A6-97AEE169502B}.Debug|x86.Build.0 = Debug|Win32
+		{318A6426-1FB3-48D6-85A6-97AEE169502B}.Release|Any CPU.ActiveCfg = Release|Win32
+		{318A6426-1FB3-48D6-85A6-97AEE169502B}.Release|Any CPU.Build.0 = Release|Win32
+		{318A6426-1FB3-48D6-85A6-97AEE169502B}.Release|x64.ActiveCfg = Release|Win32
+		{318A6426-1FB3-48D6-85A6-97AEE169502B}.Release|x64.Build.0 = Release|Win32
+		{318A6426-1FB3-48D6-85A6-97AEE169502B}.Release|x86.ActiveCfg = Release|Win32
+		{318A6426-1FB3-48D6-85A6-97AEE169502B}.Release|x86.Build.0 = Release|Win32
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4}.Debug|Any CPU.Build.0 = Debug|x64
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4}.Debug|x64.ActiveCfg = Debug|x64
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4}.Debug|x64.Build.0 = Debug|x64
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4}.Debug|x86.ActiveCfg = Release|x64
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4}.Debug|x86.Build.0 = Release|x64
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4}.Release|Any CPU.ActiveCfg = Release|x64
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4}.Release|Any CPU.Build.0 = Release|x64
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4}.Release|x64.ActiveCfg = Release|x64
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4}.Release|x64.Build.0 = Release|x64
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4}.Release|x86.ActiveCfg = Release|Win32
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4}.Release|x86.Build.0 = Release|Win32
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807}.Debug|x64.Build.0 = Debug|Any CPU
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807}.Debug|x86.Build.0 = Debug|Any CPU
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807}.Release|x64.ActiveCfg = Release|Any CPU
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807}.Release|x64.Build.0 = Release|Any CPU
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807}.Release|x86.ActiveCfg = Release|Any CPU
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807}.Release|x86.Build.0 = Release|Any CPU
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}.Debug|Any CPU.Build.0 = Debug|Win32
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}.Debug|x64.ActiveCfg = Debug|Win32
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}.Debug|x64.Build.0 = Debug|Win32
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}.Debug|x86.Build.0 = Debug|Win32
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}.Release|Any CPU.ActiveCfg = Release|Win32
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}.Release|Any CPU.Build.0 = Release|Win32
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}.Release|x64.ActiveCfg = Release|Win32
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}.Release|x64.Build.0 = Release|Win32
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}.Release|x86.ActiveCfg = Release|Win32
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88} = {1DEABEE9-4A3E-474C-990B-533A1A8C4A75}
+		{C3068F0E-56A6-43B4-8C88-5E7DAB57B4AB} = {1DEABEE9-4A3E-474C-990B-533A1A8C4A75}
+		{318A6426-1FB3-48D6-85A6-97AEE169502B} = {1DEABEE9-4A3E-474C-990B-533A1A8C4A75}
+		{A761124D-C4E2-481D-8278-F42DF3A03EE4} = {A54F5C80-3C4D-4CDB-A5F0-91CB5BBE8340}
+		{EA59E863-04AB-4C50-B255-C0E3DFD58807} = {FACC334A-C274-4D55-B6D9-967667374186}
+		{200E1AF9-E066-4BB5-B8B0-3028D08FE0A0} = {1DEABEE9-4A3E-474C-990B-533A1A8C4A75}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3093CF51-9BF1-4BA6-ADDE-3FAFB64A2E1D}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Telemetry\Telemetry.vcxitems*{1ef65262-0456-4ffe-bc16-547dcccd5a9d}*SharedItemsImports = 9
+		Telemetry\Telemetry.vcxitems*{200e1af9-e066-4bb5-b8b0-3028d08fe0a0}*SharedItemsImports = 4
+		ControllerCommons\ControllerCommons.vcxitems*{318a6426-1fb3-48d6-85a6-97aee169502b}*SharedItemsImports = 4
+		Telemetry\Telemetry.vcxitems*{a761124d-c4e2-481d-8278-f42df3a03ee4}*SharedItemsImports = 4
+		ControllerCommons\ControllerCommons.vcxitems*{c3068f0e-56a6-43b4-8c88-5e7dab57b4ab}*SharedItemsImports = 9
+		ControllerCommons\ControllerCommons.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Telemetry\Telemetry.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal

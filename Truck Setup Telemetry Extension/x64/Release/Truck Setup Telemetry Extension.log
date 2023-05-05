@@ -1,0 +1,8 @@
+﻿     Creating library C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Release\Truck Setup Telemetry Extension.lib and object C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Release\Truck Setup Telemetry Extension.exp
+Truck Setup Telemetry Extension.exp : warning LNK4070: /OUT:TruckSetupTelemetryExtenstion.dll directive in .EXP differs from output filename 'C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Release\Truck Setup Telemetry Extension.dll'; ignoring directive
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 114 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+Truck Setup Telemetry Extension.exp : warning LNK4070: /OUT:TruckSetupTelemetryExtenstion.dll directive in .EXP differs from output filename 'C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Release\Truck Setup Telemetry Extension.dll'; ignoring directive
+  Truck Setup Telemetry Extension.vcxproj -> C:\Users\sandr\source\repos\Narwhalsss360\Trucking Setup\Release\Truck Setup Telemetry Extension.dll
